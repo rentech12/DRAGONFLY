@@ -26,7 +26,7 @@
 ---
 
 <details>
-  <summary>🚀 Déploiement de OVL-MD-V2</summary>
+  <summary>🚀 Déploiement de SOSHIKI-MD-V1</summary>
 
 ### 🧬 Étape 1 : Fork du dépôt GitHub  
 [![Fork GitHub](https://img.shields.io/badge/Fork%20le%20Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ainz-devs/OVL-MD-V2/fork)
@@ -249,7 +249,7 @@ Partage, pose tes questions, et reste à jour avec toutes les nouveautés du pro
 ---
 
 ### 👨‍💻 Développeur Principal
-- **Ainz**
+- **Ren**
 ---
 ### 🙌 Remerciements
 - Haibo_lugh – pour son soutien et aide dans la gestion du bot au support.
