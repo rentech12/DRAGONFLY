@@ -1,6 +1,6 @@
 <h1 align="center">
   <span style="font-size: 3em; background: linear-gradient(45deg, #00ffff, #0080ff, #00ffff); -webkit-background-clip: text; -webkit-text-fill-color: transparent; text-shadow: 0 0 30px #00ffff, 0 0 60px #0080ff;">
-    🚀 SILA MD WHISPER 🚀
+    🚀 DRAGONFLY MD WHISPER 🚀
   </span>
 </h1>
 
@@ -34,10 +34,10 @@
 
 <div align="center">
 
-[![Download ZIP](https://img.shields.io/badge/📥_DOWNLOAD_ZIP-00ffff?style=for-the-badge&logo=zip&logoColor=black)](https://github.com/Sila-Md/SILA-MD/archive/refs/heads/main.zip)
-[![Owner](https://img.shields.io/badge/👑_OWNER-255612491554-0080ff?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/255612491554)
+[![Download ZIP](https://img.shields.io/badge/📥_DOWNLOAD_ZIP-00ffff?style=for-the-badge&logo=zip&logoColor=black)]([(https://github.com/rentech12/DRAGONFLY)]/archive/refs/heads/main.zip)
+[![Owner](https://img.shields.io/badge/👑_OWNER-50934264629-0080ff?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/50934264629
 [![Channel](https://img.shields.io/badge/📢_OFFICIAL_CHANNEL-0029VbBG4gfISTkCpKxyMH02-00ffff?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VbBG4gfISTkCpKxyMH02)
-[![Fork Repository](https://img.shields.io/badge/🍴_FORK_REPO-0080ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sila-Md/SILA-MD/fork)
+[![Fork Repository](https://img.shields.io/badge/🍴_FORK_REPO-0080ff?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/rentech12/DRAGONFLY]/fork)
 
 </div>
 
@@ -194,13 +194,13 @@
 
 ### **🌟 STAR THIS REPOSITORY IF YOU LIKE SILA MD! 🌟**
 
-[![Stars](https://img.shields.io/github/stars/Sila-Md/SILA-MD?style=for-the-badge&color=00ffff&logo=github)](https://github.com/Sila-Md/SILA-MD/stargazers)
-[![Forks](https://img.shields.io/github/forks/Sila-Md/SILA-MD?style=for-the-badge&color=0080ff&logo=github)](https://github.com/Sila-Md/SILA-MD/network/members)
-[![Issues](https://img.shields.io/github/issues/Sila-Md/SILA-MD?style=for-the-badge&color=00ffff&logo=github)](https://github.com/Sila-Md/SILA-MD/issues)
+[![Stars](https://img.shields.io/github/stars/rentech12/DRAGONFLY?style=for-the-badge&color=00ffff&logo=github)](https://github.com/rentech12/DRAGONFLY/stargazers)
+[![Forks](https://img.shields.io/github/forks/rentech12/DRAGONFLY?style=for-the-badge&color=0080ff&logo=github)](https://github.com/rentech12/DRAGONFLY/network/members)
+[![Issues](https://img.shields.io/github/issues/rentech12/DRAGONFLY?style=for-the-badge&color=00ffff&logo=github)](https://github.com/rentech12/DRAGONFLY/issues)
 
 ---
 
-**💫 Built with ❤️ by [SILA TECH](https://github.com/Sila-Md) 💫**
+**💫 Built with ❤️ by [REN TECH](https://github.com/DRAGONFLY) 💫**
 
 <br>
 
