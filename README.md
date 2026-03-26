@@ -35,8 +35,7 @@
 <div align="center">
 
 [![Download ZIP](https://img.shields.io/badge/📥_DOWNLOAD_ZIP-00ffff?style=for-the-badge&logo=zip&logoColor=black)]([(https://github.com/rentech12/DRAGONFLY)]/archive/refs/heads/main.zip)
-[![Owner](https://img.shields.io/badge/👑_OWNER--0080ff?style=for-the-badge&logo=whatsapp&logoColor=white)]
-([https//wa.me/50934264629])
+[![Owner](https://img.shields.io/badge/👑_OWNER-https//wa.me/50934264629-0080ff?style=for-the-badge&logo=whatsapp&logoColor=white)]
 [![Channel](https://img.shields.io/badge/📢_OFFICIAL_CHANNEL-info-00ffff?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VbBUyP06rsQnzQWRVO3p)
 [![Fork Repository](https://img.shields.io/badge/🍴_FORK_REPO-0080ff?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/rentech12/DRAGONFLY]/fork)
 
