@@ -18,14 +18,14 @@
 
 <p align="center">
   <em style="color: #cccccc; font-size: 1.1em;">
-    Experience the future of WhatsApp automation with SILA MD - A powerful, feature-rich, and completely customizable multi-device WhatsApp bot designed for modern messaging needs.
+    Experience the future of WhatsApp automation with DRAGONFLY MD - A powerful, feature-rich, and completely customizable multi-device WhatsApp bot designed for modern messaging needs.
   </em>
 </p>
 
 <br>
 
 <div align="center">
-  <img src="https://files.catbox.moe/jwmx1j.jpg" width="200" height="200" style="border-radius:50%;border: 3px solid #00ffff;box-shadow: 0 0 30px #00ffff, 0 0 50px #0080ff;">
+  <img src="https://files.catbox.moe/hwuaw2.png" width="200" height="200" style="border-radius:50%;border: 3px solid #00ffff;box-shadow: 0 0 30px #00ffff, 0 0 50px #0080ff;">
 </div>
 
 <br>
@@ -192,7 +192,7 @@
 
 <div align="center">
 
-### **🌟 STAR THIS REPOSITORY IF YOU LIKE SILA MD! 🌟**
+### **🌟 STAR THIS REPOSITORY IF YOU LIKE DRAGONFLY MD! 🌟**
 
 [![Stars](https://img.shields.io/github/stars/rentech12/DRAGONFLY?style=for-the-badge&color=00ffff&logo=github)](https://github.com/rentech12/DRAGONFLY/stargazers)
 [![Forks](https://img.shields.io/github/forks/rentech12/DRAGONFLY?style=for-the-badge&color=0080ff&logo=github)](https://github.com/rentech12/DRAGONFLY/network/members)
