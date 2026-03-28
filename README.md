@@ -34,10 +34,26 @@
 
 <div align="center">
 
-[![Download ZIP](https://img.shields.io/badge/📥_DOWNLOAD_ZIP-00ffff?style=for-the-badge&logo=zip&logoColor=black)]([(https://github.com/rentech12/DRAGONFLY)]/archive/refs/heads/main.zip)
-[![Owner](https://img.shields.io/badge/👑_OWNER-https//wa.me/50934264629-0080ff?style=for-the-badge&logo=whatsapp&logoColor=white)]
-[![Channel](https://img.shields.io/badge/📢_OFFICIAL_CHANNEL-info-00ffff?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VbBUyP06rsQnzQWRVO3p)
-[![Fork Repository](https://img.shields.io/badge/🍴_FORK_REPO-0080ff?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/rentech12/DRAGONFLY]/fork)
+[
+
+![Download ZIP](https://img.shields.io/badge/📥_DOWNLOAD_ZIP-00ffff?style=for-the-badge&logo=zip&logoColor=black)
+
+](https://github.com/rentech12/DRAGONFLY/archive/refs/heads/main.zip)
+[
+
+![Owner](https://img.shields.io/badge/👑_OWNER-wa.me/50934264629-0080ff?style=for-the-badge&logo=whatsapp&logoColor=white)
+
+](https://wa.me/50934264629)
+[
+
+![Channel](https://img.shields.io/badge/📢_OFFICIAL_CHANNEL-info-00ffff?style=for-the-badge&logo=whatsapp&logoColor=white)
+
+](https://whatsapp.com/channel/0029VbBUyP06rsQnzQWRVO3p)
+[
+
+![Fork Repository](https://img.shields.io/badge/🍴_FORK_REPO-0080ff?style=for-the-badge&logo=github&logoColor=white)
+
+](https://github.com/rentech12/DRAGONFLY/fork)
 
 </div>
 
@@ -47,11 +63,31 @@
 
 <div align="center">
 
-[![Deploy on Panel](https://img.shields.io/badge/🖥️_DEPLOY_ON_PANEL-00ffff?style=for-the-badge&logo=server&logoColor=black)](https://bot-hosting.net/?aff=1436269328306671689)
-[![Deploy on Heroku](https://img.shields.io/badge/☁️_DEPLOY_ON_HEROKU-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://heroku.com/deploy)
-[![Deploy on Render](https://img.shields.io/badge/🚀_DEPLOY_ON_RENDER-46a2b1?style=for-the-badge&logo=render&logoColor=white)](https://render.com/deploy)
-[![KataBump](https://img.shields.io/badge/🔗_KATABUMP-0080ff?style=for-the-badge&logo=link&logoColor=white)](https://dashboard.katabump.com/auth/login#38a45a)
-[![Pair Code](https://img.shields.io/badge/🔐_PAIR_CODE-00ffff?style=for-the-badge&logo=code&logoColor=black)](#)
+[
+
+![Deploy on Panel](https://img.shields.io/badge/🖥️_DEPLOY_ON_PANEL-00ffff?style=for-the-badge&logo=server&logoColor=black)
+
+](https://bot-hosting.net/?aff=1436269328306671689)
+[
+
+![Deploy on Heroku](https://img.shields.io/badge/☁️_DEPLOY_ON_HEROKU-430098?style=for-the-badge&logo=heroku&logoColor=white)
+
+](https://heroku.com/deploy)
+[
+
+![Deploy on Render](https://img.shields.io/badge/🚀_DEPLOY_ON_RENDER-46a2b1?style=for-the-badge&logo=render&logoColor=white)
+
+](https://render.com/deploy)
+[
+
+![KataBump](https://img.shields.io/badge/🔗_KATABUMP-0080ff?style=for-the-badge&logo=link&logoColor=white)
+
+](https://dashboard.katabump.com/auth/login#38a45a)
+[
+
+![Pair Code](https://img.shields.io/badge/🔐_PAIR_CODE-00ffff?style=for-the-badge&logo=code&logoColor=black)
+
+](#)
 
 </div>
 
@@ -162,29 +198,29 @@
 .play      # Download music
 .sticker   # Create stickers
 .tagall    # Mention all members
-```
+` ` `
 
 <br>
 
 ## 📋 **DEPLOYMENT STEPS**
 
 ### 🖥️ **Panel Hosting (Recommended)**
-```bash
+` ` `bash
 1. Click "Deploy on Panel" button
 2. Create account on bot-hosting.net
 3. Upload project files
 4. Set environment variables
 5. Start your bot!
-```
+` ` `
 
 ### ☁️ **Heroku Deployment**
-```bash
+` ` `bash
 1. Fork this repository
 2. Click "Deploy on Heroku" button
 3. Connect GitHub account
 4. Set config vars
 5. Deploy and enjoy!
-```
+` ` `
 
 <br>
 
@@ -194,17 +230,35 @@
 
 ### **🌟 STAR THIS REPOSITORY IF YOU LIKE DRAGONFLY MD! 🌟**
 
-[![Stars](https://img.shields.io/github/stars/rentech12/DRAGONFLY?style=for-the-badge&color=00ffff&logo=github)](https://github.com/rentech12/DRAGONFLY/stargazers)
-[![Forks](https://img.shields.io/github/forks/rentech12/DRAGONFLY?style=for-the-badge&color=0080ff&logo=github)](https://github.com/rentech12/DRAGONFLY/network/members)
-[![Issues](https://img.shields.io/github/issues/rentech12/DRAGONFLY?style=for-the-badge&color=00ffff&logo=github)](https://github.com/rentech12/DRAGONFLY/issues)
+[
+
+![Stars](https://img.shields.io/github/stars/rentech12/DRAGONFLY?style=for-the-badge&color=00ffff&logo=github)
+
+](https://github.com/rentech12/DRAGONFLY/stargazers)
+[
+
+![Forks](https://img.shields.io/github/forks/rentech12/DRAGONFLY?style=for-the-badge&color=0080ff&logo=github)
+
+](https://github.com/rentech12/DRAGONFLY/network/members)
+[
+
+![Issues](https://img.shields.io/github/issues/rentech12/DRAGONFLY?style=for-the-badge&color=00ffff&logo=github)
+
+](https://github.com/rentech12/DRAGONFLY/issues)
 
 ---
 
-**💫 Built with ❤️ by [REN TECH](https://github.com/DRAGONFLY) 💫**
+**💫 Built with ❤️ by [REN TECH](https://github.com/rentech12/DRAGONFLY) 💫**
 
 <br>
 
 <div align="center">
 
+
+
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=00ffff&height=100&section=footer)
 
+
+
+</div>
+</div>
